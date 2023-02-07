@@ -7,6 +7,7 @@ Python выбран по причине стройности, красоты и 
 Имею начальный опыт в языках html/css, js.
 
 ### Вот, что я умею
++ Интернет - магазин на Django [Store](https://github.com/Ildar2805/store-django)
 
 + Курсовая работа по html/css [HTML и CSS: основы веб-верстки](https://github.com/Ildar2805/Course_work---html-css)
 
